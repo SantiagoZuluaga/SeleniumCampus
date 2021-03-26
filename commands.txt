@@ -1,0 +1,8 @@
+1. mkdir seleniumtest
+2. cd seleniumtest
+3. python -m venv env
+4. (powershell - Set-ExecutionPolicy Unrestricted) Opcional
+5. ./env/scripts/activate
+6. pip install selenium
+7. pip install python-dotenv
+8. python main.py
